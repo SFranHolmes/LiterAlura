@@ -24,5 +24,4 @@ public class BookController {
         List<BookDTO> libros = bookService.buscarLibros(query);
         return ResponseEntity.ok(libros);
     }
-
 }
