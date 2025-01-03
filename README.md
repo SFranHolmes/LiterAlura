@@ -52,4 +52,4 @@ El proyecto está estructurado en varias clases principales:
 ## Instalación  
 1. Clona este repositorio:  
    ```bash  
-   git clone https://github.com/tuusuario/catalogo-libros.git  
+   https://github.com/SFranHolmes/LiterAlura.git 
